@@ -91,7 +91,7 @@
 ![](ERD.png)
 ***
 ## PPT
-[第七組_系統分析與設計期末報告]
+[第七組_系統分析與設計期末報告](https://github.com/HungJuu/SAD_Group7/blob/main/%E7%B3%BB%E7%B5%B1%E5%88%86%E6%9E%90%E8%88%87%E8%A8%AD%E8%A8%88%E6%9C%9F%E6%9C%AB%E5%91%8A%E5%A0%B1_%E7%AC%AC%E4%B8%83%E7%B5%84.pptx)
 ***
 ## 小農農產品網頁程式碼
 [小農農產品](https://github.com/HungJuu/SAD_Group7/blob/main/%E5%B0%8F%E8%BE%B2%E8%BE%B2%E7%94%A2%E5%93%81.zip)
